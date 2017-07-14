@@ -1,0 +1,19 @@
+/*Main Mosaic block*/
+.mosaic_generate_main
+{
+   /*margin: 1px;
+   padding: 1px;*/
+}
+
+/*Additional style for last images in line (for \'div\' type of generation)*/
+.mosaic_generator_last_in_line
+{
+    clear: left;
+}
+
+/*Style for image (for \'div\' type of generation)*/
+.mosaic_generator_img
+{
+    float: left;
+    padding: 0px;
+}

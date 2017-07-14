@@ -1,0 +1,50 @@
+h1{font-size: 1.5em;}
+li{display: list-item;}
+
+.mosaic_generator_error_text
+{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.mosaic_generator_label
+{
+    width: 250px;
+    float: left;
+    margin: 1px;
+    padding: 3px;
+    font-style: italic;
+}
+
+.mosaic_generator_button
+{
+    width: 250px;
+    text-align: center;    
+    margin: 1px;
+    padding: 3px;
+}
+
+.mosaic_generator_admin_forms
+{
+    float: left;
+}
+
+.mosaic_generator_css_forms
+{
+    float: none;
+    clear: both;
+}
+
+.mosaic_generator_textarea
+{
+    width: 500px;
+    height: 500px;    
+}
+
+h2
+{
+    font-size: 14px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
